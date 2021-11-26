@@ -29,7 +29,7 @@ git clone https://github.com//agayed/Acadmea.git
 ### go to the repo
 
 ```zsh
-cd Acdmy
+cd Acdmea
 ```
 
 ### install dependencies
