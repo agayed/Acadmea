@@ -4,7 +4,7 @@
 
 An educational site with React.js
 
-## Check the site [demo](https://agayed.github.io/Acadmea/) ⚠ *not work properly backend not intregrted* ⚠
+## Check the site [demo](http://agayed.github.io/Acadmea/) ⚠ *not work properly backend not intregrted* ⚠
 
 ## Includes
 
@@ -23,7 +23,7 @@ An educational site with React.js
 ### clone repo
 
 ```zsh
-git clone https://github.com//agayed/Acadmea.git
+git clone http://github.com//agayed/Acadmea.git
 ```
 
 ### go to the repo
@@ -54,5 +54,5 @@ pnpm start
 
 > open in your favorite browser by going [localhost:3000](http://localhost:3000/)
 
-## Server side [checkout](https://https://github.com/agayed/Acadmea)
+## Server side [checkout](http://https://github.com/agayed/Acadmea)
 #
